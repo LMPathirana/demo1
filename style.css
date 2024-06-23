@@ -1,0 +1,15 @@
+#h1{
+    color: fuchsia;
+    background-color: cyan;
+    padding: 20px;
+    text-align: center;
+}
+
+#h2{
+    color: ghostwhite;
+    background-color: black;
+    padding: 20px;
+    text-align: justify;
+    text-decoration: wavy;
+    text-size-adjust: 20px;
+}
